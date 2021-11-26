@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "withdraw.tax",
+    "type": "java.lang.String",
+    "description": "A description for 'withdraw.tax'"
+  },
+  {
+    "name": "deposite.tax",
+    "type": "java.lang.String",
+    "description": "A description for 'deposite.tax'"
+  },
+  {
+    "name": "deposite.tax",
+    "type": "java.lang.String",
+    "description": "A description for 'deposite.tax'"
+  },
+  {
+    "name": "deposit.fees",
+    "type": "java.lang.String",
+    "description": "A description for 'deposit.fees'"
+  },
+  {
+    "name": "withdraw.fees",
+    "type": "java.lang.String",
+    "description": "A description for 'withdraw.fees'"
+  },
+  {
+    "name": "refresh.token",
+    "type": "java.lang.String",
+    "description": "A description for 'refresh.token'"
+  },
+  {
+    "name": "access.token",
+    "type": "java.lang.String",
+    "description": "A description for 'access.token'"
+  },
+  {
+    "name": "swagger.termsofservice",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.termsofservice'"
+  },
+  {
+    "name": "swagger.contact.username",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.contact.username'"
+  }
+]}
