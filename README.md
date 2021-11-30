@@ -76,6 +76,6 @@ Contributors names  and contact info
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/nydiarra/springboot-jwt/blob/master)
-* [Exceptions Issues](https://stackoverflow.com/)
+* [Resolve Exceptions](https://stackoverflow.com/)
 * [Reference1](https://www.baeldung.com/spring-data-web-support)
 * [Reference2](https://www.dzone.co.in)
