@@ -70,12 +70,12 @@ Contributors names  and contact info
 *  Apache Tomcat 9.0.54
 *  Swagger 2.9.2
 *  MySQL 5.5
-*  Maven 4.0.0
+*  Maven 3.8.0
 
 # Acknowledgments
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/nydiarra/springboot-jwt/blob/master)
-* [Exceptions Resolved](https://stackoverflow.com/)
+* [Exceptions Issues](https://stackoverflow.com/)
 * [Reference1](https://www.baeldung.com/spring-data-web-support)
 * [Reference2](https://www.dzone.co.in)
